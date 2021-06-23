@@ -10,3 +10,4 @@
 2021-06-23 15:36:31,041:DEBUG:Capitalize fifth word
 2021-06-23 15:36:34,926:DEBUG:Replace space with '-' 
 2021-06-23 15:36:38,782:DEBUG:Replace newline with semicolon 
+2021-06-23 16:26:57,117:DEBUG:Capilatize 3rd character
