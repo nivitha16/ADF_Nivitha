@@ -1,0 +1,341 @@
+2021-06-23 23:56:39,132:DEBUG:Starting with to
+2021-06-23 23:58:53,359:DEBUG:Starting with to
+2021-06-24 00:02:44,426:DEBUG:Starting with to
+2021-06-24 00:03:48,596:DEBUG:Starting with to
+2021-06-24 00:04:28,136:DEBUG:Starting with to
+2021-06-24 00:06:08,309:DEBUG:Starting with to
+2021-06-24 00:06:21,194:DEBUG:Starting with to
+2021-06-24 09:56:03,054:DEBUG:Starting with to
+2021-06-24 09:56:55,278:DEBUG:Ending with ing
+2021-06-24 10:21:28,416:DEBUG:Starting with to
+2021-06-24 10:21:28,417:DEBUG:Ending with ing
+2021-06-24 10:21:28,421:DEBUG:Maximum occuring word
+2021-06-24 10:21:28,425:DEBUG:Palindrome
+2021-06-24 10:21:28,429:DEBUG:Unique List
+2021-06-24 10:21:28,492:DEBUG:Dictionary word
+2021-06-24 10:21:28,563:DEBUG:Split Vowels
+2021-06-24 10:21:28,572:DEBUG:Capilatize 3rd character
+2021-06-24 10:21:28,577:DEBUG:Capitalize fifth word
+2021-06-24 10:21:28,584:DEBUG:Replace space with '-' 
+2021-06-24 10:21:28,591:DEBUG:Replace newline with semicolon 
+2021-06-24 10:25:05,575:DEBUG:Starting with to
+2021-06-24 10:25:05,576:DEBUG:Ending with ing
+2021-06-24 10:25:05,579:DEBUG:Maximum occuring word
+2021-06-24 10:25:05,582:DEBUG:Palindrome
+2021-06-24 10:25:05,586:DEBUG:Unique List
+2021-06-24 10:25:05,651:DEBUG:Dictionary word
+2021-06-24 10:25:05,714:DEBUG:Split Vowels
+2021-06-24 10:25:05,719:DEBUG:Capilatize 3rd character
+2021-06-24 10:25:05,723:DEBUG:Capitalize fifth word
+2021-06-24 10:25:05,727:DEBUG:Replace space with '-' 
+2021-06-24 10:25:05,733:DEBUG:Replace newline with semicolon 
+2021-06-24 10:27:16,618:DEBUG:Starting with to
+2021-06-24 10:27:16,620:DEBUG:Ending with ing
+2021-06-24 10:27:16,624:DEBUG:Maximum occuring word
+2021-06-24 10:27:16,630:DEBUG:Palindrome
+2021-06-24 10:27:16,634:DEBUG:Unique List
+2021-06-24 10:27:16,691:DEBUG:Dictionary word
+2021-06-24 10:27:16,759:DEBUG:Split Vowels
+2021-06-24 10:27:16,764:DEBUG:Capilatize 3rd character
+2021-06-24 10:27:16,769:DEBUG:Capitalize fifth word
+2021-06-24 10:27:16,774:DEBUG:Replace space with '-' 
+2021-06-24 10:27:16,779:DEBUG:Replace newline with semicolon 
+2021-06-24 10:27:35,476:DEBUG:Starting with to
+2021-06-24 10:27:35,479:DEBUG:Ending with ing
+2021-06-24 10:27:35,485:DEBUG:Maximum occuring word
+2021-06-24 10:27:35,492:DEBUG:Palindrome
+2021-06-24 10:27:35,497:DEBUG:Unique List
+2021-06-24 10:27:35,562:DEBUG:Dictionary word
+2021-06-24 10:27:35,651:DEBUG:Split Vowels
+2021-06-24 10:27:35,657:DEBUG:Capilatize 3rd character
+2021-06-24 10:27:35,664:DEBUG:Capitalize fifth word
+2021-06-24 10:27:35,672:DEBUG:Replace space with '-' 
+2021-06-24 10:27:35,676:DEBUG:Replace newline with semicolon 
+2021-06-24 10:27:50,852:DEBUG:Starting with to
+2021-06-24 10:27:50,854:DEBUG:Ending with ing
+2021-06-24 10:27:50,860:DEBUG:Maximum occuring word
+2021-06-24 10:27:50,865:DEBUG:Palindrome
+2021-06-24 10:27:50,869:DEBUG:Unique List
+2021-06-24 10:27:50,930:DEBUG:Dictionary word
+2021-06-24 10:27:51,010:DEBUG:Split Vowels
+2021-06-24 10:27:51,017:DEBUG:Capilatize 3rd character
+2021-06-24 10:27:51,022:DEBUG:Capitalize fifth word
+2021-06-24 10:27:51,027:DEBUG:Replace space with '-' 
+2021-06-24 10:27:51,034:DEBUG:Replace newline with semicolon 
+2021-06-24 10:28:35,896:DEBUG:Starting with to
+2021-06-24 10:28:35,898:DEBUG:Ending with ing
+2021-06-24 10:28:35,901:DEBUG:Maximum occuring word
+2021-06-24 10:28:35,904:DEBUG:Palindrome
+2021-06-24 10:28:35,907:DEBUG:Unique List
+2021-06-24 10:28:35,952:DEBUG:Dictionary word
+2021-06-24 10:28:35,999:DEBUG:Split Vowels
+2021-06-24 10:28:36,005:DEBUG:Capilatize 3rd character
+2021-06-24 10:28:36,009:DEBUG:Capitalize fifth word
+2021-06-24 10:28:36,014:DEBUG:Replace space with '-' 
+2021-06-24 10:28:36,019:DEBUG:Replace newline with semicolon 
+2021-06-24 10:29:44,155:DEBUG:Starting with to
+2021-06-24 10:29:44,159:DEBUG:Ending with ing
+2021-06-24 10:29:44,165:DEBUG:Maximum occuring word
+2021-06-24 10:29:44,174:DEBUG:Palindrome
+2021-06-24 10:29:44,180:DEBUG:Unique List
+2021-06-24 10:29:44,252:DEBUG:Dictionary word
+2021-06-24 10:29:44,320:DEBUG:Split Vowels
+2021-06-24 10:29:44,325:DEBUG:Capilatize 3rd character
+2021-06-24 10:29:44,330:DEBUG:Capitalize fifth word
+2021-06-24 10:29:44,335:DEBUG:Replace space with '-' 
+2021-06-24 10:29:44,340:DEBUG:Replace newline with semicolon 
+2021-06-24 10:39:04,873:DEBUG:Starting with to
+2021-06-24 10:39:04,876:DEBUG:Ending with ing
+2021-06-24 10:39:04,881:DEBUG:Maximum occuring word
+2021-06-24 10:39:04,886:DEBUG:Palindrome
+2021-06-24 10:39:04,890:DEBUG:Unique List
+2021-06-24 10:39:04,954:DEBUG:Dictionary word
+2021-06-24 10:39:05,022:DEBUG:Split Vowels
+2021-06-24 10:39:05,027:DEBUG:Capilatize 3rd character
+2021-06-24 10:39:05,035:DEBUG:Capitalize fifth word
+2021-06-24 10:39:05,041:DEBUG:Replace space with '-' 
+2021-06-24 10:39:05,046:DEBUG:Replace newline with semicolon 
+2021-06-24 10:40:49,518:DEBUG:Starting with to
+2021-06-24 10:40:49,519:DEBUG:Ending with ing
+2021-06-24 10:40:49,522:DEBUG:Maximum occuring word
+2021-06-24 10:40:49,525:DEBUG:Palindrome
+2021-06-24 10:40:49,528:DEBUG:Unique List
+2021-06-24 10:40:49,575:DEBUG:Dictionary word
+2021-06-24 10:40:49,628:DEBUG:Split Vowels
+2021-06-24 10:40:49,633:DEBUG:Capilatize 3rd character
+2021-06-24 10:40:49,637:DEBUG:Capitalize fifth word
+2021-06-24 10:40:49,642:DEBUG:Replace space with '-' 
+2021-06-24 10:40:49,645:DEBUG:Replace newline with semicolon 
+2021-06-24 10:41:46,862:DEBUG:Starting with to
+2021-06-24 10:41:46,863:DEBUG:Ending with ing
+2021-06-24 10:41:46,869:DEBUG:Maximum occuring word
+2021-06-24 10:41:46,876:DEBUG:Palindrome
+2021-06-24 10:41:46,881:DEBUG:Unique List
+2021-06-24 10:41:46,956:DEBUG:Dictionary word
+2021-06-24 10:41:47,033:DEBUG:Split Vowels
+2021-06-24 10:41:47,037:DEBUG:Capilatize 3rd character
+2021-06-24 10:41:47,043:DEBUG:Capitalize fifth word
+2021-06-24 10:41:47,049:DEBUG:Replace space with '-' 
+2021-06-24 10:41:47,055:DEBUG:Replace newline with semicolon 
+2021-06-24 10:45:07,391:DEBUG:Starting with to
+2021-06-24 10:45:07,394:DEBUG:Ending with ing
+2021-06-24 10:45:07,400:DEBUG:Maximum occuring word
+2021-06-24 10:45:07,404:DEBUG:Palindrome
+2021-06-24 10:45:07,409:DEBUG:Unique List
+2021-06-24 10:45:07,486:DEBUG:Dictionary word
+2021-06-24 10:45:07,562:DEBUG:Split Vowels
+2021-06-24 10:45:07,568:DEBUG:Capilatize 3rd character
+2021-06-24 10:45:07,573:DEBUG:Capitalize fifth word
+2021-06-24 10:45:07,579:DEBUG:Replace space with '-' 
+2021-06-24 10:45:07,584:DEBUG:Replace newline with semicolon 
+2021-06-24 10:49:29,072:DEBUG:Starting with to
+2021-06-24 10:49:29,075:DEBUG:Ending with ing
+2021-06-24 10:49:29,081:DEBUG:Maximum occuring word
+2021-06-24 10:49:29,086:DEBUG:Palindrome
+2021-06-24 10:49:29,090:DEBUG:Unique List
+2021-06-24 10:49:29,160:DEBUG:Dictionary word
+2021-06-24 10:49:29,249:DEBUG:Split Vowels
+2021-06-24 10:49:29,254:DEBUG:Capilatize 3rd character
+2021-06-24 10:49:29,258:DEBUG:Capitalize fifth word
+2021-06-24 10:49:29,263:DEBUG:Replace space with '-' 
+2021-06-24 10:49:29,268:DEBUG:Replace newline with semicolon 
+2021-06-24 11:29:49,899:DEBUG:Starting with to
+2021-06-24 11:29:49,902:DEBUG:Ending with ing
+2021-06-24 11:29:49,906:DEBUG:Maximum occuring word
+2021-06-24 11:29:49,909:DEBUG:Palindrome
+2021-06-24 11:29:49,912:DEBUG:Unique List
+2021-06-24 11:29:49,958:DEBUG:Dictionary word
+2021-06-24 11:29:50,037:DEBUG:Split Vowels
+2021-06-24 11:29:50,042:DEBUG:Capilatize 3rd character
+2021-06-24 11:29:50,046:DEBUG:Capitalize fifth word
+2021-06-24 11:29:50,049:DEBUG:Replace space with '-' 
+2021-06-24 11:29:50,052:DEBUG:Replace newline with semicolon 
+2021-06-24 12:23:34,788:DEBUG:Starting with to
+2021-06-24 12:23:34,790:DEBUG:Ending with ing
+2021-06-24 12:23:34,794:DEBUG:Maximum occuring word
+2021-06-24 12:23:34,797:DEBUG:Palindrome
+2021-06-24 12:24:05,781:DEBUG:Starting with to
+2021-06-24 12:24:05,782:DEBUG:Ending with ing
+2021-06-24 12:24:05,786:DEBUG:Maximum occuring word
+2021-06-24 12:24:05,790:DEBUG:Palindrome
+2021-06-24 12:24:05,794:DEBUG:Unique List
+2021-06-24 12:24:05,833:DEBUG:Dictionary word
+2021-06-24 12:24:05,900:DEBUG:Split Vowels
+2021-06-24 12:24:05,904:DEBUG:Capilatize 3rd character
+2021-06-24 12:24:05,907:DEBUG:Capitalize fifth word
+2021-06-24 13:55:19,452:DEBUG:Starting with to
+2021-06-24 13:55:19,454:DEBUG:Ending with ing
+2021-06-24 13:55:19,458:DEBUG:Maximum occuring word
+2021-06-24 13:55:19,461:DEBUG:Palindrome
+2021-06-24 13:55:19,464:DEBUG:Unique List
+2021-06-24 13:55:19,510:DEBUG:Dictionary word
+2021-06-24 13:55:19,556:DEBUG:Split Vowels
+2021-06-24 13:55:19,562:DEBUG:Capilatize 3rd character
+2021-06-24 13:55:19,566:DEBUG:Capitalize fifth word
+2021-06-24 13:55:19,570:DEBUG:Replace space with '-' 
+2021-06-24 13:55:19,575:DEBUG:Replace newline with semicolon 
+2021-06-24 13:55:33,428:DEBUG:Starting with to
+2021-06-24 13:55:33,430:DEBUG:Ending with ing
+2021-06-24 13:55:33,433:DEBUG:Maximum occuring word
+2021-06-24 13:55:33,437:DEBUG:Palindrome
+2021-06-24 13:55:33,440:DEBUG:Unique List
+2021-06-24 13:55:33,501:DEBUG:Dictionary word
+2021-06-24 13:55:33,574:DEBUG:Split Vowels
+2021-06-24 13:55:33,580:DEBUG:Capilatize 3rd character
+2021-06-24 13:55:33,585:DEBUG:Capitalize fifth word
+2021-06-24 13:55:33,591:DEBUG:Replace space with '-' 
+2021-06-24 13:55:33,595:DEBUG:Replace newline with semicolon 
+2021-06-24 13:56:19,760:DEBUG:Starting with to
+2021-06-24 13:56:19,762:DEBUG:Ending with ing
+2021-06-24 13:56:19,765:DEBUG:Maximum occuring word
+2021-06-24 13:56:19,769:DEBUG:Palindrome
+2021-06-24 13:56:19,773:DEBUG:Unique List
+2021-06-24 13:56:19,829:DEBUG:Dictionary word
+2021-06-24 13:56:19,912:DEBUG:Split Vowels
+2021-06-24 13:56:19,918:DEBUG:Capilatize 3rd character
+2021-06-24 13:56:19,924:DEBUG:Capitalize fifth word
+2021-06-24 13:56:19,932:DEBUG:Replace space with '-' 
+2021-06-24 13:56:19,939:DEBUG:Replace newline with semicolon 
+2021-06-24 14:01:02,329:DEBUG:Starting with to
+2021-06-24 14:01:02,332:DEBUG:Ending with ing
+2021-06-24 14:01:02,337:DEBUG:Maximum occuring word
+2021-06-24 14:01:02,340:DEBUG:Palindrome
+2021-06-24 14:01:02,344:DEBUG:Unique List
+2021-06-24 14:01:02,405:DEBUG:Dictionary word
+2021-06-24 14:01:02,486:DEBUG:Split Vowels
+2021-06-24 14:01:02,493:DEBUG:Capilatize 3rd character
+2021-06-24 14:01:02,500:DEBUG:Capitalize fifth word
+2021-06-24 14:01:02,507:DEBUG:Replace space with '-' 
+2021-06-24 14:01:02,514:DEBUG:Replace newline with semicolon 
+2021-06-24 14:05:14,686:DEBUG:Starting with to
+2021-06-24 14:05:14,688:DEBUG:Ending with ing
+2021-06-24 14:05:14,693:DEBUG:Maximum occuring word
+2021-06-24 14:05:14,697:DEBUG:Palindrome
+2021-06-24 14:05:14,702:DEBUG:Unique List
+2021-06-24 14:05:14,757:DEBUG:Dictionary word
+2021-06-24 14:05:14,851:DEBUG:Split Vowels
+2021-06-24 14:05:14,858:DEBUG:Capilatize 3rd character
+2021-06-24 14:05:14,865:DEBUG:Capitalize fifth word
+2021-06-24 14:05:14,872:DEBUG:Replace space with '-' 
+2021-06-24 14:05:14,879:DEBUG:Replace newline with semicolon 
+2021-06-24 14:08:35,155:DEBUG:Starting with to
+2021-06-24 14:08:35,158:DEBUG:Ending with ing
+2021-06-24 14:08:35,161:DEBUG:Maximum occuring word
+2021-06-24 14:08:35,167:DEBUG:Palindrome
+2021-06-24 14:08:35,171:DEBUG:Unique List
+2021-06-24 14:08:35,245:DEBUG:Dictionary word
+2021-06-24 14:08:35,350:DEBUG:Split Vowels
+2021-06-24 14:08:35,357:DEBUG:Capilatize 3rd character
+2021-06-24 14:08:35,365:DEBUG:Capitalize fifth word
+2021-06-24 14:08:35,374:DEBUG:Replace space with '-' 
+2021-06-24 14:08:35,380:DEBUG:Replace newline with semicolon 
+2021-06-24 14:23:08,693:DEBUG:Starting with to
+2021-06-24 14:23:08,694:DEBUG:Ending with ing
+2021-06-24 14:23:08,698:DEBUG:Maximum occuring word
+2021-06-24 14:23:08,701:DEBUG:Palindrome
+2021-06-24 14:23:08,705:DEBUG:Unique List
+2021-06-24 14:23:08,749:DEBUG:Dictionary word
+2021-06-24 14:23:08,792:DEBUG:Split Vowels
+2021-06-24 14:23:08,795:DEBUG:Capilatize 3rd character
+2021-06-24 14:23:08,800:DEBUG:Capitalize fifth word
+2021-06-24 14:23:08,805:DEBUG:Replace space with '-' 
+2021-06-24 14:23:08,809:DEBUG:Replace newline with semicolon 
+2021-06-24 14:24:18,750:DEBUG:Starting with to
+2021-06-24 14:24:18,752:DEBUG:Ending with ing
+2021-06-24 14:24:18,756:DEBUG:Maximum occuring word
+2021-06-24 14:24:18,760:DEBUG:Palindrome
+2021-06-24 14:24:18,765:DEBUG:Unique List
+2021-06-24 14:24:18,823:DEBUG:Dictionary word
+2021-06-24 14:24:18,887:DEBUG:Split Vowels
+2021-06-24 14:24:18,894:DEBUG:Capilatize 3rd character
+2021-06-24 14:24:18,900:DEBUG:Capitalize fifth word
+2021-06-24 14:24:18,907:DEBUG:Replace space with '-' 
+2021-06-24 14:24:18,913:DEBUG:Replace newline with semicolon 
+2021-06-24 14:26:17,134:DEBUG:Starting with to
+2021-06-24 14:26:17,137:DEBUG:Ending with ing
+2021-06-24 14:26:17,140:DEBUG:Maximum occuring word
+2021-06-24 14:26:17,145:DEBUG:Palindrome
+2021-06-24 14:26:17,149:DEBUG:Unique List
+2021-06-24 14:26:17,205:DEBUG:Dictionary word
+2021-06-24 14:26:17,284:DEBUG:Split Vowels
+2021-06-24 14:26:17,289:DEBUG:Capilatize 3rd character
+2021-06-24 14:26:17,293:DEBUG:Capitalize fifth word
+2021-06-24 14:26:17,298:DEBUG:Replace space with '-' 
+2021-06-24 14:26:17,304:DEBUG:Replace newline with semicolon 
+2021-06-24 14:27:50,340:DEBUG:Starting with to
+2021-06-24 14:27:50,342:DEBUG:Ending with ing
+2021-06-24 14:27:50,345:DEBUG:Maximum occuring word
+2021-06-24 14:27:50,349:DEBUG:Palindrome
+2021-06-24 14:27:50,354:DEBUG:Unique List
+2021-06-24 14:27:50,399:DEBUG:Dictionary word
+2021-06-24 14:27:50,474:DEBUG:Split Vowels
+2021-06-24 14:27:50,484:DEBUG:Capilatize 3rd character
+2021-06-24 14:27:50,538:DEBUG:Capitalize fifth word
+2021-06-24 14:27:50,543:DEBUG:Replace space with '-' 
+2021-06-24 14:27:50,556:DEBUG:Replace newline with semicolon 
+2021-06-24 14:27:58,173:DEBUG:Starting with to
+2021-06-24 14:27:58,174:DEBUG:Ending with ing
+2021-06-24 14:27:58,178:DEBUG:Maximum occuring word
+2021-06-24 14:27:58,181:DEBUG:Palindrome
+2021-06-24 14:27:58,186:DEBUG:Unique List
+2021-06-24 14:27:58,240:DEBUG:Dictionary word
+2021-06-24 14:27:58,320:DEBUG:Split Vowels
+2021-06-24 14:27:58,325:DEBUG:Capilatize 3rd character
+2021-06-24 14:27:58,331:DEBUG:Capitalize fifth word
+2021-06-24 14:27:58,341:DEBUG:Replace space with '-' 
+2021-06-24 14:27:58,347:DEBUG:Replace newline with semicolon 
+2021-06-24 14:30:38,544:DEBUG:Starting with to
+2021-06-24 14:30:38,546:DEBUG:Ending with ing
+2021-06-24 14:30:38,549:DEBUG:Maximum occuring word
+2021-06-24 14:30:38,552:DEBUG:Palindrome
+2021-06-24 14:30:38,556:DEBUG:Unique List
+2021-06-24 14:30:38,594:DEBUG:Dictionary word
+2021-06-24 14:30:38,650:DEBUG:Split Vowels
+2021-06-24 14:30:38,654:DEBUG:Capilatize 3rd character
+2021-06-24 14:30:38,659:DEBUG:Capitalize fifth word
+2021-06-24 14:30:38,663:DEBUG:Replace space with '-' 
+2021-06-24 14:30:38,668:DEBUG:Replace newline with semicolon 
+2021-06-24 14:31:19,383:DEBUG:Starting with to
+2021-06-24 14:31:19,385:DEBUG:Ending with ing
+2021-06-24 14:31:19,389:DEBUG:Maximum occuring word
+2021-06-24 14:31:19,393:DEBUG:Palindrome
+2021-06-24 14:31:19,398:DEBUG:Unique List
+2021-06-24 14:31:19,473:DEBUG:Dictionary word
+2021-06-24 14:31:19,561:DEBUG:Split Vowels
+2021-06-24 14:31:19,568:DEBUG:Capilatize 3rd character
+2021-06-24 14:31:19,575:DEBUG:Capitalize fifth word
+2021-06-24 14:31:19,582:DEBUG:Replace space with '-' 
+2021-06-24 14:31:19,591:DEBUG:Replace newline with semicolon 
+2021-06-24 14:58:38,658:DEBUG:Starting with to
+2021-06-24 14:58:38,660:DEBUG:Ending with ing
+2021-06-24 14:58:38,665:DEBUG:Maximum occuring word
+2021-06-24 14:58:38,668:DEBUG:Palindrome
+2021-06-24 14:58:38,672:DEBUG:Unique List
+2021-06-24 14:58:38,727:DEBUG:Dictionary word
+2021-06-24 14:58:38,783:DEBUG:Split Vowels
+2021-06-24 14:58:38,790:DEBUG:Capilatize 3rd character
+2021-06-24 14:58:38,794:DEBUG:Capitalize fifth word
+2021-06-24 14:58:38,797:DEBUG:Replace space with '-' 
+2021-06-24 14:58:38,800:DEBUG:Replace newline with semicolon 
+2021-06-24 15:19:36,452:DEBUG:Starting with to
+2021-06-24 15:19:36,454:DEBUG:Ending with ing
+2021-06-24 15:19:36,458:DEBUG:Maximum occuring word
+2021-06-24 15:19:36,461:DEBUG:Palindrome
+2021-06-24 15:19:36,466:DEBUG:Unique List
+2021-06-24 15:19:36,510:DEBUG:Dictionary word
+2021-06-24 15:19:36,559:DEBUG:Split Vowels
+2021-06-24 15:19:36,563:DEBUG:Capilatize 3rd character
+2021-06-24 15:19:36,567:DEBUG:Capitalize fifth word
+2021-06-24 15:19:36,570:DEBUG:Replace space with '-' 
+2021-06-24 15:19:36,574:DEBUG:Replace newline with semicolon 
+2021-06-24 15:20:48,323:DEBUG:Starting with to
+2021-06-24 15:20:48,327:DEBUG:Ending with ing
+2021-06-24 15:20:48,334:DEBUG:Maximum occuring word
+2021-06-24 15:20:48,340:DEBUG:Palindrome
+2021-06-24 15:20:48,346:DEBUG:Unique List
+2021-06-24 15:20:48,430:DEBUG:Dictionary word
+2021-06-24 15:20:48,501:DEBUG:Split Vowels
+2021-06-24 15:20:48,506:DEBUG:Capilatize 3rd character
+2021-06-24 15:20:48,513:DEBUG:Capitalize fifth word
+2021-06-24 15:20:48,518:DEBUG:Replace space with '-' 
+2021-06-24 15:20:48,525:DEBUG:Replace newline with semicolon 
