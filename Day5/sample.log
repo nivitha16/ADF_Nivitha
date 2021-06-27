@@ -1,0 +1,7 @@
+2021-06-27 18:09:09,977:DEBUG:new_auth_plugin: caching_sha2_password
+2021-06-27 18:09:09,996:DEBUG:checks age
+2021-06-27 18:09:09,996:DEBUG:checks age
+2021-06-27 18:09:09,996:DEBUG:checks nationality
+2021-06-27 18:09:09,996:DEBUG:checks state
+2021-06-27 18:09:09,997:DEBUG:checks salary
+2021-06-27 18:09:09,997:DEBUG:checks request received in last 5 days
