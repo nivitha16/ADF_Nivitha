@@ -5,3 +5,31 @@
 2021-06-27 18:09:09,996:DEBUG:checks state
 2021-06-27 18:09:09,997:DEBUG:checks salary
 2021-06-27 18:09:09,997:DEBUG:checks request received in last 5 days
+2021-06-27 18:39:55,771:DEBUG:new_auth_plugin: caching_sha2_password
+2021-06-27 18:39:55,792:DEBUG:checks age
+2021-06-27 18:39:55,792:DEBUG:checks age
+2021-06-27 18:39:55,792:DEBUG:checks nationality
+2021-06-27 18:39:55,792:DEBUG:checks state
+2021-06-27 18:39:55,792:DEBUG:checks salary
+2021-06-27 18:39:55,792:DEBUG:checks request received in last 5 days
+2021-06-27 18:43:25,121:DEBUG:new_auth_plugin: caching_sha2_password
+2021-06-27 18:43:25,138:DEBUG:checks age
+2021-06-27 18:43:25,139:DEBUG:checks age
+2021-06-27 18:43:25,139:DEBUG:checks nationality
+2021-06-27 18:43:25,139:DEBUG:checks state
+2021-06-27 18:43:25,139:DEBUG:checks salary
+2021-06-27 18:43:25,140:DEBUG:checks request received in last 5 days
+2021-06-27 18:45:57,931:DEBUG:new_auth_plugin: caching_sha2_password
+2021-06-27 18:45:57,946:DEBUG:checks age
+2021-06-27 18:45:57,946:DEBUG:checks age
+2021-06-27 18:45:57,946:DEBUG:checks nationality
+2021-06-27 18:45:57,947:DEBUG:checks state
+2021-06-27 18:45:57,947:DEBUG:checks salary
+2021-06-27 18:45:57,947:DEBUG:checks request received in last 5 days
+2021-06-27 18:47:06,460:DEBUG:new_auth_plugin: caching_sha2_password
+2021-06-27 18:47:06,474:DEBUG:checks age
+2021-06-27 18:47:06,474:DEBUG:checks age
+2021-06-27 18:47:06,474:DEBUG:checks nationality
+2021-06-27 18:47:06,474:DEBUG:checks state
+2021-06-27 18:47:06,474:DEBUG:checks salary
+2021-06-27 18:47:06,474:DEBUG:checks request received in last 5 days
