@@ -61,11 +61,11 @@ class TestSubclass(TestParent):
         logging.debug("Starting with to")
         return nivi
 
-    # def test_toprefix(self):
-    #     """method"""
-    #     res1 = self.prefix()
-    #     res2 = ['to','together','tonight']
-    #     assert res1 == res2
+    def test_prefix(self):
+        """method"""
+        res1 = self.prefix()
+        res2 = ['to','together','tonight']
+        assert res1 == res2
 
     def suffix(self):
         """method"""
@@ -84,11 +84,11 @@ class TestSubclass(TestParent):
         self.writecontents(nivi)
         return nivi
 
-    # def test_suffix(self):
-    #     """method"""
-    #     res1 = self.suffix()
-    #     res2 = ['going', 'coming']
-    #     assert res1 == res2
+    def test_suffix(self):
+        """method"""
+        res1 = self.suffix()
+        res2 = ['going', 'coming']
+        assert res1 == res2
 
     def max_occuring(self):
         """method"""
@@ -114,11 +114,11 @@ class TestSubclass(TestParent):
         self.writecontents(str2)
         return str2
 
-    # def test_max(self):
-    #     """method"""
-    #     res1 = self.max_occuring()
-    #     res2 = "aaa"
-    #     assert res1 == res2
+    def test_max(self):
+        """method"""
+        res1 = self.max_occuring()
+        res2 = "aaa"
+        assert res1 == res2
 
     def palindrome(self):
         """method"""
@@ -136,11 +136,11 @@ class TestSubclass(TestParent):
         self.writecontents(nivi)
         return nivi
 
-    # def test_palidrome(self):
-    #     """method"""
-    #     res1 = self.palindrome()
-    #     res2 = ['aaa', 'malayalam', 'madam', 'aaa', 'bbb', 'aaa']
-    #     assert res1 == res2
+    def test_palindrome(self):
+        """method"""
+        res1 = self.palindrome()
+        res2 = ['aaa', 'malayalam', 'madam', 'aaa', 'bbb', 'aaa']
+        assert res1 == res2
 
     def unique_list(self):
         """method"""
@@ -157,12 +157,12 @@ class TestSubclass(TestParent):
         self.writecontents(list1)
         return list1
 
-    # def test_unique(self):
-    #     """method"""
-    #     res1 = self.unique_list()
-    #     res2 = ['to', 'together', 'aaa', 'malayalam', 'madam', 'aaa', 'bbb', 'abd', 'abd',
-    #             'abd', 'dcb', 'dcb', 'dcb', 'aaa', 'hello', 'going', 'coming', 'tonight']
-    #     assert res1 == res2
+    def test_unique(self):
+        """method"""
+        res1 = self.unique_list()
+        res2 = ['to', 'together', 'aaa', 'malayalam', 'madam', 'aaa', 'bbb', 'abd', 'abd',
+                'abd', 'dcb', 'dcb', 'dcb', 'aaa', 'hello', 'going', 'coming', 'tonight']
+        assert res1 == res2
 
     def word_dict(self):
         """method"""
@@ -182,11 +182,11 @@ class TestSubclass(TestParent):
         logging.debug("Dictionary word")
         return count
 
-    # def test_word(self):
-    #     """method"""
-    #     res1 = self.word_dict()
-    #     res2 = 18
-    #     assert res1 == res2
+    def test_word(self):
+        """method"""
+        res1 = self.word_dict()
+        res2 = 18
+        assert res1 == res2
 
     def split_vowels(self):
         """method"""
@@ -208,11 +208,11 @@ class TestSubclass(TestParent):
         logging.debug("Split Vowels")
         return count
 
-    # def test_splitvowels(self):
-    #     """method"""
-    #     res1 = self.split_vowels()
-    #     res2 = 22
-    #     assert res1 == res2
+    def test_splitvowels(self):
+        """method"""
+        res1 = self.split_vowels()
+        res2 = 22
+        assert res1 == res2
 
 class TestChild(TestParent):
     """class"""
@@ -233,12 +233,12 @@ class TestChild(TestParent):
         logging.debug("Capilatize 3rd character")
         return caps
 
-    # def test_caps1(self):
-    #     """method"""
-    #     res1 = self.capitalize()
-    #     res2 = ['to', 'toGetHer', '', 'aaA', 'maLayAlaM', 'maDam', 'aaA', 'bbB', 'abD',
-    #             'abD', 'abD', 'dcB', 'dcB', 'dcB', 'aaA', 'heLlo', 'goIng', 'coMinG', 'toNigHt']
-    #     assert res1 == res2
+    def test_caps1(self):
+        """method"""
+        res1 = self.capitalize()
+        res2 = ['to', 'toGetHer', '', 'aaA', 'maLayAlaM', 'maDam', 'aaA', 'bbB', 'abD',
+                'abD', 'abD', 'dcB', 'dcB', 'dcB', 'aaA', 'heLlo', 'goIng', 'coMinG', 'toNigHt']
+        assert res1 == res2
 
     def capitalize5th(self):
         """method"""
@@ -253,12 +253,12 @@ class TestChild(TestParent):
         logging.debug("Capitalize fifth word")
         return string
 
-    # def test_caps2(self):
-    #     """method"""
-    #     res1 = self.capitalize5th()
-    #     res2 = ['aaa', 'malayalam', 'madam', 'aaa', 'BBB', 'abd', 'abd',
-    #             'abd', 'dcb', 'DCB', 'dcb', 'aaa', 'hello', 'going', 'COMING', 'tonight']
-    #     assert res1 == res2
+    def test_caps2(self):
+        """method"""
+        res1 = self.capitalize5th()
+        res2 = ['aaa', 'malayalam', 'madam', 'aaa', 'BBB', 'abd', 'abd',
+                'abd', 'dcb', 'DCB', 'dcb', 'aaa', 'hello', 'going', 'COMING', 'tonight']
+        assert res1 == res2
 
     def replace(self):
         """method"""
@@ -272,12 +272,12 @@ class TestChild(TestParent):
         logging.debug("Replace space with '-' ")
         return str1
 
-    # def test_replace(self):
-    #     """method"""
-    #     res1 = self.replace()
-    #      res2 = "aaa-malayalam-madam-aaa-bbb-abd-abd-" \
-    #             "abd-dcb-dcb-dcb-aaa-hello-going-coming-tonight"
-    #     assert res1 == res2
+    def test_replace(self):
+        """method"""
+        res1 = self.replace()
+        res2 = "aaa-malayalam-madam-aaa-bbb-abd-abd-" \
+                "abd-dcb-dcb-dcb-aaa-hello-going-coming-tonight"
+        assert res1 == res2
 
     def newline(self):
         """method"""
@@ -288,12 +288,12 @@ class TestChild(TestParent):
         logging.debug("Replace newline with semicolon ")
         return input1
 
-    # def test_newline(self):
-    #     """method"""
-    #     res1 = self.newline()
-    #     res2 = "to together;aaa malayalam madam aaa bbb " \
-    #            "abd abd abd dcb dcb dcb aaa hello going coming tonight"
-    #     assert res1 == res2
+    def test_newline(self):
+        """method"""
+        res1 = self.newline()
+        res2 = "to together;aaa malayalam madam aaa bbb " \
+               "abd abd abd dcb dcb dcb aaa hello going coming tonight"
+        assert res1 == res2
 
 # MAIN FUNCTION
 #
@@ -312,3 +312,14 @@ ob.capitalize()
 ob.capitalize5th()
 ob.replace()
 ob.newline()
+obj.test_prefix()
+obj.test_suffix()
+obj.test_max()
+obj.test_palindrome()
+obj.test_unique()
+obj.test_word()
+obj.test_splitvowels()
+ob.test_caps1()
+ob.test_caps2()
+ob.test_replace()
+ob.test_newline()
