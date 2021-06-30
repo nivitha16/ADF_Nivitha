@@ -80,7 +80,11 @@ try:
                 if s1 != "":
                     list.append(s1)
 
-        print(list)
+        unique = []
+        for x in list:
+            if x not in unique:
+                unique.append(x)
+        print(unique)
 
     def word_dict():
         list1 = []

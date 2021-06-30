@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2c8d0e5-4e05-4534-86e9-1a4d532aa376" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Read_File/new2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Read_File/new2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day5/venv/Lib/site-packages/mysql/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1uB4WKy5BKE0Nbxo1uoq9Wi82xv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,6 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.uniqueword">
     <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
