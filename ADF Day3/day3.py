@@ -1,5 +1,6 @@
 import re
 import logging
+import configparse as config
 
 logging.basicConfig(
     filename="sample.log",
@@ -23,7 +24,7 @@ class parent:
         return Lines
 
     def writecontents(self,nivi):
-        with open('newday2.txt', 'w') as f:
+        with open(a_val, 'w') as f:
             for items in nivi:
                 f.write('%s ' % items)
         f.close()
@@ -100,9 +101,14 @@ class subclass(parent):
                     if s1 != "":
                         list.append(s1)
 
+            unique = []
+            for x in list:
+                if x not in unique:
+                    unique.append(x)
+
             logging.debug("Unique List".format())
-            self.display(list)
-            output = self.writecontents(list)
+            self.display(unique)
+            output = self.writecontents(unique)
 
         def word_dict(self):
             list1 = []
@@ -182,6 +188,7 @@ class subclass(parent):
 
 
 obj=subclass(file)
+a_val=config.details["outputfile"]
 #main function
 def switch():
         option = int(input("enter your option: "))

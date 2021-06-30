@@ -151,17 +151,21 @@ class TestSubclass(TestParent):
             for str1 in string:
                 if str1 != "":
                     list1.append(str1)
+        unique = []
+        for x in list1:
+            if x not in unique:
+                unique.append(x)
 
         logging.debug("Unique List")
-        self.display(list1)
-        self.writecontents(list1)
-        return list1
+        self.display(unique)
+        self.writecontents(unique)
+        return unique
 
     def test_unique(self):
         """method"""
         res1 = self.unique_list()
-        res2 = ['to', 'together', 'aaa', 'malayalam', 'madam', 'aaa', 'bbb', 'abd', 'abd',
-                'abd', 'dcb', 'dcb', 'dcb', 'aaa', 'hello', 'going', 'coming', 'tonight']
+        res2 = ['to', 'together', 'aaa', 'malayalam', 'madam', 'bbb', 'abd',
+                'dcb', 'hello', 'going', 'coming', 'tonight']
         assert res1 == res2
 
     def word_dict(self):

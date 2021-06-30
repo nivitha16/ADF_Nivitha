@@ -41,7 +41,7 @@ def check_age(age1,gender1):
     """method"""
     cri4=''
     g_g=gender1.casefold()
-    if (age1>21 and g_g=='male') or (age1>18 and g_g=='female'):
+    if (age1>=21 and g_g=='male') or (age1>=18 and g_g=='female'):
         cri4="Eligible"
     else:
         cri4="Not valid"

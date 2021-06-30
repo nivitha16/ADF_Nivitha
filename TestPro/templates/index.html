@@ -1,0 +1,22 @@
+<html>
+<head>
+</head>
+<body>
+<form action="userinfosubmission" method="post">
+    {% csrf_token %}
+    First name: <input type="text" name="fn"><br><br>
+    Middle name: <input type="text" name="mn"><br><br>
+    Last name: <input type="text" name="ln"><br><br>
+    Date of birth(YYYY-MM-DD): <input type="text" name="d_o_b"><br><br>
+    Gender(M/F): <input type="text" name="gn"><br><br>
+    Nationality(Indian/American): <input type="text" name="nm"><br><br>
+    State: <input type="text" name="sn"><br><br>
+    Pin-code: <input type="text" name="pc"><br><br>
+    Qualification: <input type="text" name="qn"><br><br>
+    Salary: <input type="text" name="ss"><br><br>
+    Pan Number: <input type="text" name="pn"><br><br>
+
+    <input type="Submit">
+</form>
+</body>
+</html>
