@@ -3,15 +3,15 @@ from django.db import models
 from django.utils import timezone
 
 # Create your models here.
-class news(models.Model):
-    """news"""
-    author = models.CharField(max_length=30)
-    title = models.CharField(max_length=30)
-    description = models.TextField()
-    pub_date=models.DateTimeField(default=timezone.now())
-
-    def __str__(self):
-        return self.author
+# class news(models.Model):
+#     """news"""
+#     author = models.CharField(max_length=30)
+#     title = models.CharField(max_length=30)
+#     description = models.TextField()
+#     pub_date=models.DateTimeField(default=timezone.now())
+#
+#     def __str__(self):
+#         return self.author
 
 class request_info(models.Model):
     """class"""
